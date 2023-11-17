@@ -13,8 +13,8 @@ f(a,b,c)=∑(0,1,5,6,7)
 4- Save and Upload your circuit Digital design file to the repo like **Assignment4.dig**. 
 
 ### Screenshots
+![image](https://github.com/afatmanuracar/Assignment/assets/130499665/7aa80e56-57e0-467f-a4d9-ff681c6f77ae)
 
-*Insert Screenshots here*
 
 ### Equipments List
 
